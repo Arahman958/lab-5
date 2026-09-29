@@ -14,7 +14,7 @@ module schematic1(
 	output CE,
 	output CF,
 	output CG,
-	output dp,
+	output DP,
 	output AN0,
 	output AN1,
 	output AN2,
